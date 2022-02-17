@@ -224,9 +224,9 @@ class Sketch {
         const geometry = new THREE.ShapeGeometry( shape );
         const mesh = new THREE.Mesh( geometry, material );
       
-       group.scale.set(0.020, 0.020, 0.020);
+       group.scale.set(0.010, 0.010, 0.010);
        group.rotation.z = Math.PI ;
-       group.applyMatrix4(new THREE.Matrix4().makeScale(1, 1, 1));
+       group.applyMatrix4(new THREE.Matrix4().makeScale(0.5, 0.5, 0.5));
         group.position.set(4,4.5,.05);
         group.add( mesh );
       }
