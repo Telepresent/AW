@@ -393,7 +393,7 @@ class Sketch {
       this.title1Group.add(gltf.scene);
     }); 
     gltfLoader.load('./models/title-2.gltf', (gltf) => {
-      gltf.scene.scale.set(100, 100, 100);
+      gltf.scene.scale.set(1, 1, 1);
       gltf.scene.rotation.x = Math.PI  / 2 ;
       gltf.scene.position.set(0,-5.1,-.3);
       gltf.scene.traverse((mesh) => {
@@ -410,7 +410,7 @@ class Sketch {
     });       
     gltfLoader.load('./models/title-3.gltf', (gltf) => {
       titles.push(gltf.scene);
-      gltf.scene.scale.set(100, 100, 100);
+      gltf.scene.scale.set(1, 1, 1);
       gltf.scene.rotation.x = Math.PI  / 2 ;
       gltf.scene.position.set(0,-5.1,-.3);
       gltf.scene.traverse((mesh) => {
