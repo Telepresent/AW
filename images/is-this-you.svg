@@ -22,6 +22,12 @@
   <polygon cx="6.75" cy="12.5" fill="#000000" id="svg_18" orient="point" point="5" points="143.24998977780342,54.089817445965764 168.9572188945931,126.16498654096085 268.0355502893035,122.2821187809459 184.84515683966129,162.94414717946438 220.3717166787901,232.6195771168368 143.24998977780342,185.67491232615612 66.12827276447115,232.6195771168368 101.65480294063673,162.94414717946438 18.46444904161217,122.2821187809459 117.54276066101374,126.16498654096085 143.24998977780342,54.089817445965764 168.9572188945931,126.16498654096085 " r="43.410188" r2="14.470063" radialshift="0" shape="star" starRadiusMultiplier="3" stroke="#000000" stroke-width="0"/>
   <text fill="#000000" font-family="Serif" font-size="24" id="svg_19" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(688.605, 0, 0, -104.711, -12149.2, 3517.77)" x="45.951791" xml:space="preserve" y="89.122702">Zu</text>
   <text fill="#000000" font-family="Serif" font-size="24" id="svg_20" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(846.049, 0, 0, -340.063, -47963.1, 20171.7)" x="81.943282" xml:space="preserve" y="129.140706">Zu</text>
-  <use id="svg_31" transform="matrix(0.325338, 0, 0, 0.325338, 0, 0)" x="92.211781" xlink:href="#svg_30" y="110.65414"/>
+  <use id="svg_31" transform="matrix(0.325338, 0, 0, 0.325338, 0, 0)" x="89.138054" xlink:href="#svg_30" y="138.317675"/>
+  <line fill="none" id="svg_32" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" x1="25.75" x2="52.75" y1="33.5" y2="33.5"/>
+  <line fill="none" id="svg_33" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" x1="52.75" x2="28.75" y1="33.5" y2="61.5"/>
+  <line fill="none" id="svg_34" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" x1="27.749999" x2="53.75" y1="62.5" y2="61.5"/>
+  <line fill="none" id="svg_35" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" x1="59.75" x2="59.75" y1="33.5" y2="56.5"/>
+  <line fill="none" id="svg_36" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" x1="77.75" x2="77.75" y1="33.5" y2="57.5"/>
+  <path d="m59.75,56.5c1.263181,0 2.273725,0 3.41059,0c1.13686,0 2.300044,0 3.516696,0c0.872436,0 2.216041,0 3.388689,0c0.909492,0 2.095199,0 3.368489,0c1.016861,0 2.131618,0 3.242163,0l1.136865,0l1.135178,0" fill="none" id="svg_37" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null"/>
  </g>
 </svg>
