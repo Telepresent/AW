@@ -377,7 +377,7 @@ class Sketch {
     const shadowFace = new THREE.MeshBasicMaterial( {  envMap: this.textureEquirec, stencilWrite: true, stencilFunc: THREE.EqualStencilFunc, stencilRef: 1, stencilFuncMask: 0xFF, stencilFail: THREE.KeepStencilOp, stencilZFail: THREE.KeepStencilOp, stencilZPass: THREE.ReplaceStencilOp });
 
     gltfLoader.load('./models/title-1.gltf', (gltf) => {
-      gltf.scene.scale.set(100, 100, 100);
+      gltf.scene.scale.set(1, 1, 1);
       gltf.scene.rotation.x = Math.PI  / 2 ;
       gltf.scene.position.set(0,-4.1,-.3);
       gltf.scene.traverse((mesh) => {
