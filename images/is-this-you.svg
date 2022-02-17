@@ -3,7 +3,10 @@
 
  <g class="layer">
   <title>Layer 1</title>
-  <text fill="#000000" font-family="Serif" font-size="24" id="svg_12" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1, 0, 0, 1, 0, 0) matrix(4.25271, 0, 0, 4.60923, -60.3277, -79.1608)" x="48.457966" xml:space="preserve" y="41.417832">Zu al</text>
-  <text fill="#000000" font-family="Serif" font-size="24" id="svg_13" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(4.41858, 0, 0, 4.99554, -114.018, -573.557)" x="59.582035" xml:space="preserve" y="157.190342">zara?</text>
+  <text fill="#000000" font-family="Serif" font-size="24" id="svg_12" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(4.25271, 0, 0, 4.60923, -60.3277, -79.1608)" x="16.008072" xml:space="preserve" y="14.298329">Zu al</text>
+  <text fill="#000000" font-family="Serif" font-size="24" id="svg_13" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(4.41858, 0, 0, 4.99554, -114.018, -573.557)" x="-16.913155" xml:space="preserve" y="131.367299">zara?</text>
+  <rect fill="#000000" height="0" id="svg_16" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" transform="matrix(1, 0, 0, 1, 0, 0)" width="0" x="135.75" y="13.5"/>
+  <rect fill="#000000" height="0" id="svg_17" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" transform="matrix(1, 0, 0, 1, 0, 0)" width="1" x="84.75" y="130.5"/>
+  <polygon cx="6.75" cy="12.5" fill="#000000" id="svg_18" orient="point" point="5" points="143.24998977780342,54.089817445965764 168.9572188945931,126.16498654096085 268.0355502893035,122.2821187809459 184.84515683966129,162.94414717946438 220.3717166787901,232.6195771168368 143.24998977780342,185.67491232615612 66.12827276447115,232.6195771168368 101.65480294063673,162.94414717946438 18.46444904161217,122.2821187809459 117.54276066101374,126.16498654096085 143.24998977780342,54.089817445965764 168.9572188945931,126.16498654096085 " r="43.410188" r2="14.470063" radialshift="0" shape="star" starRadiusMultiplier="3" stroke="#000000" stroke-width="0"/>
  </g>
 </svg>
