@@ -25785,7 +25785,7 @@
                     imageSources: [$u, Ju, Ku],
                     floorTexture: this.resources.items.projectsZenlyFloorTexture,
                     link: {
-                        href: "https://zen.ly",
+                        href: "https://www.orbea.com",
                         x: -4.8,
                         y: -4.2,
                         halfExtents: {
@@ -25811,7 +25811,7 @@
                     imageSources: [id, rd, sd],
                     floorTexture: this.resources.items.projectsPriorHoldingsFloorTexture,
                     link: {
-                        href: "https://prior.co.jp/discover/",
+                        href: "https://www.orbea.com",
                         x: -4.8,
                         y: -3,
                         halfExtents: {
