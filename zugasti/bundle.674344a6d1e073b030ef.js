@@ -25837,7 +25837,7 @@
                     imageSources: [od, ad, ld],
                     floorTexture: this.resources.items.projectsOranoFloorTexture,
                     link: {
-                        href: "https://www.orano.group/experience/innovation/",
+                        href: "https://www.orbea.com/",
                         x: -4.8,
                         y: -3.4,
                         halfExtents: {
@@ -25863,7 +25863,7 @@
                     imageSources: [ed, td, nd],
                     floorTexture: this.resources.items.projectsCitrixRedbullFloorTexture,
                     link: {
-                        href: "https://thenewmobileworkforce.imm-g-prod.com/",
+                        href: "https://www.orbea.com/",
                         x: -4.8,
                         y: -4.4,
                         halfExtents: {
@@ -25889,7 +25889,7 @@
                     imageSources: [cd, hd, ud, dd],
                     floorTexture: this.resources.items.projectsGleecChatFloorTexture,
                     link: {
-                        href: "http://gleec.imm-g-prod.com",
+                        href: "https://www.orbea.com/",
                         x: -4.8,
                         y: -3.4,
                         halfExtents: {
@@ -26101,16 +26101,16 @@
             value: function() {
                 var e = this;
                 this.links = {}, this.links.x = 1.95, this.links.y = -1.5, this.links.halfExtents = {}, this.links.halfExtents.x = 1, this.links.halfExtents.y = 1, this.links.distanceBetween = 2.4, this.links.labelWidth = 2 * this.links.halfExtents.x + 1, this.links.labelGeometry = new sn(this.links.labelWidth, .25 * this.links.labelWidth, 1, 1), this.links.labelOffset = -1.6, this.links.items = [], this.links.container = new Fe, this.links.container.matrixAutoUpdate = !1, this.container.add(this.links.container), this.links.options = [{
-                    href: "https://twitter.com/bruno_simon/",
+                    href: "https://twitter.com/tactiZity_/",
                     labelTexture: this.resources.items.informationContactTwitterLabelTexture
                 }, {
-                    href: "https://github.com/brunosimon/",
+                    href: "https://github.com/Telepresent/",
                     labelTexture: this.resources.items.informationContactGithubLabelTexture
                 }, {
-                    href: "https://www.linkedin.com/in/simonbruno77/",
+                    href: "https://www.linkedin.com/in/iarakis/",
                     labelTexture: this.resources.items.informationContactLinkedinLabelTexture
                 }, {
-                    href: "mailto:simon.bruno.77@gmail.com",
+                    href: "mailto:metabertsoa@gmail.com",
                     labelTexture: this.resources.items.informationContactMailLabelTexture
                 }];
                 var t = 0,
