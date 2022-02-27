@@ -25741,7 +25741,7 @@
                     imageSources: [Gu, Wu, qu, Xu],
                     floorTexture: this.resources.items.projectsThreejsJourneyFloorTexture,
                     link: {
-                        href: "https://threejs-journey.xyz",
+                        href: "https://www.orbea.com",
                         x: -4.8,
                         y: -3,
                         halfExtents: {
@@ -25759,7 +25759,7 @@
                     imageSources: [Yu, Zu, Qu],
                     floorTexture: this.resources.items.projectsChartogneFloorTexture,
                     link: {
-                        href: "https://chartogne-taillet.com",
+                        href: "https://www.orbea.com",
                         x: -4.8,
                         y: -3.3,
                         halfExtents: {
@@ -27069,7 +27069,7 @@
                             n.found = !0;
                             var i = atob(n.code);
                             window.setTimeout((function() {
-                                window.confirm("\nYou find an egg!\nHere is your code for a 30% discount on https://threejs-journey.xyz\n".concat(i, "\n\nWould you like to go on the subscription page?\n                        ")) && window.open("https://threejs-journey.xyz/subscribe/".concat(i), "_blank"), window.setTimeout((function() {
+                                window.confirm("\nYou find an egg!\n\n".concat(i, "\n\nWould you like to go on the subscription page?\n                        ")) && window.open("https://www.orbea.com/".concat(i), "_blank"), window.setTimeout((function() {
                                     n.found = !1
                                 }), 1e3)
                             }), 600)
