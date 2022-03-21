@@ -18111,7 +18111,7 @@
             fd = !0, ld = new fl
         }
         "ultralow" == yd && (Rh.parentNode.removeChild(Rh), mh.style.display = "block;", Ah.style.display = "block", _h.classList.add("show")), "debug" == yd && (xd = !0, od = new Ju, window.setTimeout((function() {
-            Dh = new Qu, document.body.appendChild(Dh.dom), Ih.remove(Vd), Bh.autoRotate = !1, Bh.enabled = !0, Bh.enableRotate = !0, Ph.position.set(-20, 20, -20), Bh.target.set(0, 2, 0), Ph.lookAt(Bh.target), $d.insertPass(ep, 1), ep.uniforms.aperture.value = 30 * 1e-5, ep.needsSwap = !0, Bh.minDistance = 15, Bh.maxDistance = 50, Bh.maxPolarAngle = Math.PI / 2.4, Bh.maxAzimuthAngle = 25
+            Dh = new Qu, document.body.appendChild(Dh.dom), Ih.remove(Vd), Bh.autoRotate = !1, Bh.enabled = !0, Bh.enableRotate = !0, Ph.position.set(-30, 30, -40), Bh.target.set(0, 2, 0), Ph.lookAt(Bh.target), $d.insertPass(ep, 1), ep.uniforms.aperture.value = 30 * 1e-5, ep.needsSwap = !0, Bh.minDistance = 15, Bh.maxDistance = 50, Bh.maxPolarAngle = Math.PI / 2.4, Bh.maxAzimuthAngle = 25
         }), 200), window.setTimeout(bd, 3e3), Rh.parentNode.removeChild(Rh), mh.style.display = "block;", Ah.style.display = "block");
         let wd = !1;
         "max" == yd && (wd = !0), 0 == xd && (ed = new Fa((() => {
