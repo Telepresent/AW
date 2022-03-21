@@ -18111,7 +18111,7 @@
             fd = !0, ld = new fl
         }
         "ultralow" == yd && (Rh.parentNode.removeChild(Rh), mh.style.display = "block;", Ah.style.display = "block", _h.classList.add("show")), "debug" == yd && (xd = !0, od = new Ju, window.setTimeout((function() {
-            Dh = new Qu, document.body.appendChild(Dh.dom), Ih.remove(Vd), Bh.autoRotate = !1, Bh.enabled = !0, Bh.enableRotate = !0, Ph.position.set(-30, 30, -40), Bh.target.set(0, 2, 0), Ph.lookAt(Bh.target), $d.insertPass(ep, 1), ep.uniforms.aperture.value = 30 * 1e-5, ep.needsSwap = !0, Bh.minDistance = 15, Bh.maxDistance = 50, Bh.maxPolarAngle = Math.PI / 2.4, Bh.maxAzimuthAngle = 25
+            Dh = new Qu, document.body.appendChild(Dh.dom), Ih.remove(Vd), Bh.autoRotate = !1, Bh.enabled = !0, Bh.enableRotate = !0, Ph.position.set(-60, 30, 40), Bh.target.set(0, 2, 0), Ph.lookAt(Bh.target), $d.insertPass(ep, 1), ep.uniforms.aperture.value = 30 * 1e-5, ep.needsSwap = !0, Bh.minDistance = 15, Bh.maxDistance = 50, Bh.maxPolarAngle = Math.PI / 2.4, Bh.maxAzimuthAngle = 25
         }), 200), window.setTimeout(bd, 3e3), Rh.parentNode.removeChild(Rh), mh.style.display = "block;", Ah.style.display = "block");
         let wd = !1;
         "max" == yd && (wd = !0), 0 == xd && (ed = new Fa((() => {
@@ -18709,7 +18709,7 @@
         const Fd = new $a(14135175, .4, 6, .8, .4, 0);
         Fd.rotation.set(0, 0, 0), Fd.target.position.set(1, 0, 0), Fd.add(Fd.target), Ih.add(Fd);
         const kd = new $a(14135175, .3, 6, .8, .4, 0);
-        kd.rotation.set(0, 0, 0), kd.target.position.set(0, -1, 0), kd.add(kd.target), Ih.add(kd), Oh.position.set(46, 1.9, 27), Ih.add(Oh.target), Ih.add(Oh);
+        kd.rotation.set(0, 0, 0), kd.target.position.set(0, -1, 0), kd.add(kd.target), Ih.add(kd), Oh.position.set(30, 1.9, 27), Ih.add(Oh.target), Ih.add(Oh);
         const Hd = new Oe({
                 color: 5882794,
                 transparent: !0,
@@ -18953,7 +18953,7 @@
 
         function rp() {
             Ed.play(), Bh.autoRotate = !0, Ah.classList.remove("visible"), Th.hasAttribute("src") && Th.removeAttribute("src"), up(), Eh.value = 0, Eh.classList.remove("show"), new Gc.Tween(Bh.target).to({
-                x: 0,
+                x: 50,
                 y: 2,
                 z: 0
             }, 2e3).easing(Gc.Easing.Quartic.InOut).start().onUpdate((function() {})).onComplete((function() {
