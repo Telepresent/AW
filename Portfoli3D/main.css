@@ -1,0 +1,235 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+.loading-bar
+{
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  height: 2px;
+  background: #F1626D;
+  transform: scaleX(0);
+  transform-origin: top left;
+  transition: transform 0.5s;
+  will-change: transform;
+}
+
+.loading-bar.ended
+{
+  transform-origin: top right;
+  transition: transform 1.5s ease-in-out;
+}
+
+.copyright3D
+{
+  position: absolute;
+  color: #12262B;
+  bottom: 2px;
+  right: 20px;
+  text-align: right;
+}
+
+model-viewer {
+object-fit: contain;
+width: 400px;
+height: 400px;
+/*position: inherit;
+margin: auto;*/
+}
+
+model-viewer.furniture {
+object-fit: contain;
+width: 800px;
+height: 400px;
+}
+
+.modal-content {
+  background: rgba(51,65,68, 0.8);
+  box-shadow: 0 8px 32px 0 rgba( 209, 169, 155, 0.1 );
+  backdrop-filter: blur( 5.5px );
+  -webkit-backdrop-filter: blur( 5.5px );
+  border-radius: 10px;
+  border: 1px solid rgba( 222, 211, 214, 0.2 );
+}
+
+.btn-secondary {
+  font-family: 'Be Vietnam Pro';
+  font-size: 0.875em;
+  background-color: #8DAAA6 !important;
+  color: #3D4E56;
+}
+
+.nav-link {
+  font-family: 'Sofadi One';
+  font-size: 1.5em;
+  color: #8DAAA6;
+}
+
+.nav-link:hover {
+  color: #B7C8D8;
+}
+
+.nav-link.active {
+  font-family: 'Sofadi One';
+  font-size: 3.25em;
+  background-color: rgba(51,65,68,0) !important;
+  text-align: left;
+}
+
+.nav-link.active.blue {
+  color: #C5F5F7 !important;
+}
+
+.nav-link.active.purple {
+  color: #D7BDF2 !important;
+}
+
+.nav-link.active.pink {
+  color: #FF9C98 !important;
+}
+
+.h2 {
+  font-family: 'Tenali Ramakrishna';
+  font-size: 3.25em;
+  text-align: left;
+}
+
+#pinksub {
+  color: #EBB9AD;
+}
+
+#bluesub {
+  color: #B7C8D8;
+}
+
+.h3 {
+  font-family: 'Architects Daughter';
+  font-size: 2.5em;
+  color: #DED3D6;
+  text-align: center;
+}
+
+.h4 {
+  font-family: 'Architects Daughter';
+  font-size: 1.375em;
+  color: #DED3D6;
+  text-align: center;
+}
+
+#subtitle {
+  text-align: left;
+}
+
+strong {
+  color: #C5F5F7;
+}
+
+.h5 {
+  font-family: 'Tenali Ramakrishna';
+  font-size: 1.375em;
+  color: #DED3D6;
+  text-align: center;
+
+}
+
+.h6 {
+  font-family: 'Sue Ellen Francisco';
+  font-size: 1.563em;
+  color: #DED3D6;
+}
+
+#job {
+  text-align: left;
+  border-left-style: solid;
+  border-left-width: 3px;
+  border-left-color: #C5F5F7;
+
+}
+
+#education {
+  text-align: right;
+  border-right-style: solid;
+  border-right-width: 3px;
+  border-right-color: #C5F5F7;
+  margin-left: 3px;
+}
+
+.h7 {
+  font-family: 'Be Vietnam Pro';
+  font-size: 0.875em;
+  text-align: center;
+}
+
+#tools {
+  color: #F3C8A0;
+}
+
+#copyright {
+  color: #A4D4B4;
+}
+
+.card {
+  border-width: 1.5px;
+  border-radius : 8px;
+  background-color: rgba(51,65,68,0) !important;
+  overflow: hidden;
+  /*width: 493px;*/
+}
+
+#bluehighlight {
+  border-color: #C5F5F7;
+}
+
+#bluehighlight2 {
+  border-color: #C5F5F7;
+  height: 494px;
+}
+
+#purplehighlight {
+  border-color: #D7BDF2;
+}
+
+#pinkhighlight {
+  border-color: #FF9C98;
+}
+
+img {
+  object-fit: contain;
+}
+
+.instagram-media blockquote {
+  align-content: center;
+}
+
+.video-responsive {
+	overflow: hidden;
+	padding-bottom: 56%;
+	position: relative;
+	}
+
+.video-responsive iframe, .video-responsive object, .video-responsive embed {
+	height: 100%;
+  object-fit: cover;
+	position: absolute;
+	width: 100%;
+	}
+
+
+/*# sourceMappingURL=main.css.map*/
