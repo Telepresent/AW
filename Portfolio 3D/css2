@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Architects Daughter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/architectsdaughter/v17/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvfY4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Be Vietnam Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/bevietnampro/v8/QdVPSTAyLFyeg_IDWvOJmVES_Eww.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sofadi One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/sofadione/v19/JIA2UVBxdnVBuElZaMFGcDM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sue Ellen Francisco';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/sueellenfrancisco/v14/wXK3E20CsoJ9j1DDkjHcQ5ZL8xRaxru9roo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Tenali Ramakrishna';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/tenaliramakrishna/v10/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-8KA.ttf) format('truetype');
+}
